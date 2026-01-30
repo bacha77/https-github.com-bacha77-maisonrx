@@ -1,0 +1,8 @@
+{
+  "name": "MedSecure Delivery Hub",
+  "description": "A HIPAA-compliant secure medication delivery management system for pharmacies, featuring real-time tracking, driver communication, and detailed audit logs.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
